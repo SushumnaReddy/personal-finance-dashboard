@@ -1,11 +1,11 @@
 # Personal Finance Analytics Dashboard
 
 
-+ - Developed a responsive expense tracking dashboard using HTML, CSS and JavaScript.
-+ - Implemented budget management, expense filtering and search functionality.
-+ - Built interactive pie and bar charts using Chart.js for financial analytics.
-+ - Added Local Storage persistence and CSV report export capabilities.
-+ - Deployed project using GitHub Pages.
+ - Developed a responsive expense tracking dashboard using HTML, CSS and JavaScript.
+ - Implemented budget management, expense filtering and search functionality.
+ - Built interactive pie and bar charts using Chart.js for financial analytics.
+ - Added Local Storage persistence and CSV report export capabilities.
+ - Deployed project using GitHub Pages.
 
 ## Features
 
