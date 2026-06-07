@@ -21,9 +21,9 @@ A responsive web application for tracking expenses, managing budgets, and visual
 - Chart.js
 
 ## Screenshots
-![Dashboard](screenshots/dashboard-home,png.png)
-![Analytics](screenshots/analytics,png.png)
-![Filter](screenshots/filter-search,png.png)
+![Dashboard](screenshots/dashboard-home.png)
+![Analytics](screenshots/analytics.png)
+![Filter](screenshots/filter.png)
 
 ## Future Enhancements
 
@@ -34,4 +34,4 @@ A responsive web application for tracking expenses, managing budgets, and visual
 
 ## Live Demo
 
-(Add GitHub Pages link here)
+https://sushumnareddy.github.io/personal-finance-dashboard/
